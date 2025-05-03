@@ -10,6 +10,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       //DG:From where it says remove, we pasted code
       home: Scaffold(
+        //appBar: AppBar(
+        //title: Text('Sanchia Vandayars Period Tracker'),
+        //backgroundColor: Colors.blue,
+        //foregroundColor: Colors.white,
+        //),
         backgroundColor: Colors.pinkAccent,
         body: Container(),
       ),
